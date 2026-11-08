@@ -1,0 +1,40 @@
+
+.title {
+  color: red;
+  font-size: 3rem;
+}
+
+/* Apply to table, heading and data cells to set the borders */
+.priceTable, th, td {
+  border-style: solid;
+  border-color: darkgray;
+  border-width: 1px;
+  border-collapse: collapse;
+  margin-bottom: 15px;
+}
+
+
+/* Style the table body */
+/* You can have thead, tbody and tfoot to explicitly provide */
+/* semantic information and enable rows only in the body to scroll */
+.priceTable td {
+  padding: 10px;
+  background-color: antiquewhite;
+}
+
+/* Style the table head */
+.priceTable th {
+  padding: 10px;
+  background-color: lightgray;
+}
+
+#cbStyleId {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.thanks {
+  font-size: 2rem;
+  color: green;
+  font-weight: bold;
+}

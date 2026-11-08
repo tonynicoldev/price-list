@@ -1,0 +1,14 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Open priceList2.html",
+      "file": "d:\\oneDriveUclan\\OneDrive - University of Lancashire\\CO3404\\Demos\\price-list\\PriceList2\\priceList2.html"
+    }
+  ]
+}

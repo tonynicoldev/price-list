@@ -1,0 +1,29 @@
+
+.title {
+  color: red;
+  font-size: 3rem;
+}
+
+
+.priceTable {
+  color: yellow;
+  background-color: blue;
+}
+
+.styleCb {
+  margin-top: 20px;
+  display: block
+}
+
+
+.storeStatusRb {
+  margin-top: 20px;
+  display: block
+}
+
+.seeYa {
+  font-size: 2rem;
+  color: green;
+  font-weight: bold;
+}
+
